@@ -1,5 +1,5 @@
-def using_push
-  
+def using_push(array, string)
+  array.push(string)  
 end
 
 def using_unshift
@@ -26,4 +26,22 @@ def using_concat
 
 end
 
-def
+def using_insert
+
+end
+
+def using_uniq
+
+end
+
+def using_flatten
+
+end
+
+def using_delete
+
+end
+
+def using_delete_at
+
+end
